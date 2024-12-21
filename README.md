@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-
-Js project for Odin project
+Javascript project for Odin project
 
 For this project I have to:
 
